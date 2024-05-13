@@ -1,0 +1,12 @@
+export const GET_SLOTS = "GET_SLOTS";
+export const UPDATE_SLOT = "UPDATE_SLOT";
+export const GET_SUMMARY = "GET_SUMMARY";
+export const SLOTS_LOADING = "SLOTS_LOADING";
+export const SLOTS_REQUEST = "SLOTS_REQUEST";
+export const ADD_SLOT_DATE = "ADD_SLOT_DATE";
+export const ADD_TIME_SLOT = "ADD_TIME_SLOT";
+export const DELETE_SLOT = "DELETE_SLOT";
+export const DELETE_TIME_SLOT = "DELETE_TIME_SLOT";
+export const GET_SLOT_BY_DATE = "GET_SLOT_BY_DATE";
+export const GET_ERRORS = "GET_ERRORS";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
